@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name "Transistor_library")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/Transistor_library.kicad_sym")(options "")(descr ""))
+  (lib (name "Jumpers_library")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/Jumpers_library.kicad_sym")(options "")(descr ""))
+  (lib (name "IC_library")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/IC_library.kicad_sym")(options "")(descr ""))
+  (lib (name "Connectors_library")(type "KiCad")(uri "${KIPRJMOD}/kicad-libs/Connectors_library.kicad_sym")(options "")(descr ""))
+)

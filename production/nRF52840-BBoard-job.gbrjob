@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "5.99.0-unknown-64afa3a42e~128~ubuntu20.04.1"
+      "Version": "5.99.0-unknown-ed66c0f14d~128~ubuntu20.04.1"
     },
-    "CreationDate": "2021-05-12T23:24:30+01:00"
+    "CreationDate": "2021-06-03T22:12:59+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
-      "Name": "E73-nRF52840-BBoard",
-      "GUID": "4537332d-6e52-4463-9532-3834302d4242",
-      "Revision": "rev?"
+      "Name": "nRF52840-BBoard",
+      "GUID": "6e524635-3238-4343-902d-42426f617264",
+      "Revision": "v2"
     },
     "Size": {
       "X": 60.3,
@@ -24,8 +24,8 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.15,
-      "PadToTrack": 0.15,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.15,
       "MinLineWidth": 0.15,
       "TrackToRegion": 0.508,
@@ -33,65 +33,65 @@
     },
     {
       "Layers": "Inner",
-      "PadToPad": 0.15,
-      "PadToTrack": 0.15,
+      "PadToPad": 0.0,
+      "PadToTrack": 0.0,
       "TrackToTrack": 0.15,
       "MinLineWidth": 0.15
     }
   ],
   "FilesAttributes": [
     {
-      "Path": "E73-nRF52840-BBoard-F_Cu.gbr",
+      "Path": "nRF52840-BBoard-F_Cu.gbr",
       "FileFunction": "Copper,L1,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-In1_Cu.gbr",
+      "Path": "nRF52840-BBoard-In1_Cu.gbr",
       "FileFunction": "Copper,L2,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-In2_Cu.gbr",
+      "Path": "nRF52840-BBoard-In2_Cu.gbr",
       "FileFunction": "Copper,L3,Inr",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-B_Cu.gbr",
+      "Path": "nRF52840-BBoard-B_Cu.gbr",
       "FileFunction": "Copper,L4,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-F_Paste.gbr",
+      "Path": "nRF52840-BBoard-F_Paste.gbr",
       "FileFunction": "SolderPaste,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-B_Paste.gbr",
+      "Path": "nRF52840-BBoard-B_Paste.gbr",
       "FileFunction": "SolderPaste,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-F_Silkscreen.gbr",
+      "Path": "nRF52840-BBoard-F_Silkscreen.gbr",
       "FileFunction": "Legend,Top",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-B_Silkscreen.gbr",
+      "Path": "nRF52840-BBoard-B_Silkscreen.gbr",
       "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
-      "Path": "E73-nRF52840-BBoard-F_Mask.gbr",
+      "Path": "nRF52840-BBoard-F_Mask.gbr",
       "FileFunction": "SolderMask,Top",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "E73-nRF52840-BBoard-B_Mask.gbr",
+      "Path": "nRF52840-BBoard-B_Mask.gbr",
       "FileFunction": "SolderMask,Bot",
       "FilePolarity": "Negative"
     },
     {
-      "Path": "E73-nRF52840-BBoard-Edge_Cuts.gbr",
+      "Path": "nRF52840-BBoard-Edge_Cuts.gbr",
       "FileFunction": "Profile",
       "FilePolarity": "Positive"
     }

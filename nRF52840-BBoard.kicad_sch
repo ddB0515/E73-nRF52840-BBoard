@@ -4,6 +4,14 @@
 
   (paper "A4")
 
+  (title_block
+    (title "nRF52840 BBoard")
+    (date "2021-06-04")
+    (rev "v2")
+    (company "ddB0515")
+    (comment 4 "License: CERN OHL v1.2")
+  )
+
   (lib_symbols
     (symbol "Battery_Management:LTC4054ES5-4.2" (pin_names (offset 0.254)) (in_bom yes) (on_board yes)
       (property "Reference" "U" (id 0) (at -5.842 6.604 0)

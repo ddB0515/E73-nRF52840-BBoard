@@ -32,3 +32,19 @@ adafruit-nrfutil --verbose dfu serial --package nrf52840_bboard_bootloader-0.5.1
 - Submit board to Adafruit Bootloader repo
 - Add board to Communitiy nRF52 (https://github.com/jpconstantineau/Community_nRF52_Arduino)
 - Get more samples/demos to provide with board
+
+# Licenses
+- Communitiy nRF52 - Lesser General Public License v2.1
+- Adafruit_LittleFS - BSD 3-Clause
+- BlueFruit - MIT License
+- Adafruit_TinyUSB_Arduino - MIT License
+- BLEAdafruitService - MIT License
+- BLEHomeKit - BSD License
+- BlueFruit52 - MIT License
+- InternalFileSytem - MIT License
+- PDM - Lesser General Public License v2.1
+- RotaryEncoder - MIT License
+- SPI - Lesser General Public License v2.1
+- Servo - Lesser General Public License v2.1
+- SoftwareSerial - Lesser General Public License v2.1
+- Wire - Lesser General Public License v2.1

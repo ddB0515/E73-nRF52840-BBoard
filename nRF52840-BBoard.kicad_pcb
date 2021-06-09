@@ -13338,7 +13338,7 @@
       )
     )
   )
-  (zone (net 1) (net_name "GND") (layer "B.Cu") (tstamp 0c610f29-0a64-419c-86ed-10951451b7cd) (hatch edge 0.508)
+  (zone (net 1) (net_name "GND") (layer "B.Cu") (tstamp 568e6c2c-2c23-4292-9c34-cfb4f1becb6e) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254) (filled_areas_thickness no)
     (fill yes (thermal_gap 0.508) (thermal_bridge_width 0.508))

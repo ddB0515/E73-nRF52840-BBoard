@@ -9,7 +9,7 @@
     (date "2021-06-04")
     (rev "v2")
     (company "ddB0515")
-    (comment 4 "License: CERN OHL v1.2")
+    (comment 4 "License: MIT License")
   )
 
   (lib_symbols
